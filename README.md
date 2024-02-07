@@ -4,7 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yssfdevops&label=Profile%20views&color=0e75b6&style=flat" alt="yssfdevops" /> </p>
 
+- 📚 Currently studying Computer Science and in my third year.
 - 🌱 I’m currently learning **MatLab, Vue.js, React & Python**
+- 💻 Technology enthusiast who keeps up with everyday advancements.
+- 🔍 Always on the lookout for new technology.
+- 🤖 Currently learning Robotics and programming everything from scratch.
+- 🧭 Gaining knowledge in Computer Vision & exploring the world of multimedia.
+- 🧠 Delving into computational learning.
 
 - 👨‍💻 All of my projects are available at [https://github.com/YssfDevOps](https://github.com/YssfDevOps)
 
